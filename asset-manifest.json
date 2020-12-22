@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/PWA/static/css/main.83b42b3b.chunk.css",
-    "main.js": "/PWA/static/js/main.825b2907.chunk.js",
-    "main.js.map": "/PWA/static/js/main.825b2907.chunk.js.map",
+    "main.css": "/PWA/static/css/main.940cbc4e.chunk.css",
+    "main.js": "/PWA/static/js/main.3aabe03c.chunk.js",
+    "main.js.map": "/PWA/static/js/main.3aabe03c.chunk.js.map",
     "runtime-main.js": "/PWA/static/js/runtime-main.dada05b4.js",
     "runtime-main.js.map": "/PWA/static/js/runtime-main.dada05b4.js.map",
     "static/css/2.3c03f26f.chunk.css": "/PWA/static/css/2.3c03f26f.chunk.css",
     "static/js/2.277841f7.chunk.js": "/PWA/static/js/2.277841f7.chunk.js",
     "static/js/2.277841f7.chunk.js.map": "/PWA/static/js/2.277841f7.chunk.js.map",
     "index.html": "/PWA/index.html",
-    "precache-manifest.136eb512e56775dfb543b413925e9bde.js": "/PWA/precache-manifest.136eb512e56775dfb543b413925e9bde.js",
+    "precache-manifest.189ac3d22da41e424055a4fe58ca5dbf.js": "/PWA/precache-manifest.189ac3d22da41e424055a4fe58ca5dbf.js",
     "service-worker.js": "/PWA/service-worker.js",
     "static/css/2.3c03f26f.chunk.css.map": "/PWA/static/css/2.3c03f26f.chunk.css.map",
-    "static/css/main.83b42b3b.chunk.css.map": "/PWA/static/css/main.83b42b3b.chunk.css.map",
+    "static/css/main.940cbc4e.chunk.css.map": "/PWA/static/css/main.940cbc4e.chunk.css.map",
     "static/js/2.277841f7.chunk.js.LICENSE.txt": "/PWA/static/js/2.277841f7.chunk.js.LICENSE.txt",
     "static/media/App.css": "/PWA/static/media/SEGA.12a3db8b.woff"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.dada05b4.js",
     "static/css/2.3c03f26f.chunk.css",
     "static/js/2.277841f7.chunk.js",
-    "static/css/main.83b42b3b.chunk.css",
-    "static/js/main.825b2907.chunk.js"
+    "static/css/main.940cbc4e.chunk.css",
+    "static/js/main.3aabe03c.chunk.js"
   ]
 }
